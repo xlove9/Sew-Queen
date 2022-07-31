@@ -157,7 +157,7 @@
         },
         "REMOVE_BG_API_KEY": {
             "description": "Get API Key. https://remove.bg",
-            "required": false
+            "required": KLfUC4iupyg3XadxuQBJqVQz
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.  include {status} & {phoneinfo} & {sever} & {ratings} to add about chat & phone info & saver info & Your Ratings to your alive message",
