@@ -1,706 +1,130 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@xlove9
+xlove9 /
+Red-Dragon
+Public
+forked from prabhasha2006/Red-Dragon
+
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+Red-Dragon/package.json
+@prabhasha2006
+prabhasha2006 🤭RED DRAGON BOT🌹
+Latest commit 1fa7cd5 3 days ago
+History
+1 contributor
+84 lines (84 sloc) 2.05 KB
 {
-    "name": "Sew-Queen",
-    "description": "World Best Whatsapp Bot",
-    "logo": "https://i.ibb.co/cL2D0jy/Capture.png",
-    "keywords": ["sew", "sewqueen"],
-    "stack": "container",
-    "env": {
-        "_SEW_QUEEN_SESSION": {
-            "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
-            "required": {
-  "creds": {
-    "noiseKey": {
-      "private": {
-        "type": "Buffer",
-        "data": "WFE61s4Won2uHyXBQuGdY1IQZBbKV5Jw/GYnYOV4Qno="
-      },
-      "public": {
-        "type": "Buffer",
-        "data": "MuPycDNv23WHSAu/SV5WOdK86b/MP6QLKJ7G4OZff3s="
-      }
-    },
-    "signedIdentityKey": {
-      "private": {
-        "type": "Buffer",
-        "data": "8NAK0Lj6A/ohOdIsS5aze34j/fcBuqsFpYQHN9rCHWg="
-      },
-      "public": {
-        "type": "Buffer",
-        "data": "gVCpmsHZXhnw7XodJ858QJnfWX1bf0/SawGUmrit6yc="
-      }
-    },
-    "signedPreKey": {
-      "keyPair": {
-        "private": {
-          "type": "Buffer",
-          "data": "mOdsCnqFFDDTKgN+2wwMvRjhwwaCk6vuagNU6qVuknE="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "tGuypk4lfVIJDEfdBTikNAIKoqpEbJunXrXZn/B1AAk="
-        }
-      },
-      "signature": {
-        "type": "Buffer",
-        "data": "bC3jmAjktv43hi0fWEo7GEIlBZAw3fVXY3ZzL1IS0XST7L7/LduBUkDU3EDC0AxAjfNu8DpTEmqlXA0yb+CRCA=="
-      },
-      "keyId": 1
-    },
-    "registrationId": 29,
-    "advSecretKey": "Po3qS/xG+UCguH5UXyBrIKSiRKf0lmQkiPGhzCaS+Hk=",
-    "nextPreKeyId": 31,
-    "firstUnuploadedPreKeyId": 31,
-    "serverHasPreKeys": true,
-    "account": {
-      "details": "CPz93+cGELvln5cGGAM=",
-      "accountSignatureKey": "r+V20FYqKTP95Q03QIE+TstLttcvymnSxv6SF4aAR1g=",
-      "accountSignature": "151wLsXPOH2p9G46ZoACxxC/D6EqmLuCcdD6rnTtiBzmC10LfSNufWr0fOT0vtT0N69jItv0SW1PnnWuivPRAg==",
-      "deviceSignature": "SMjkd0ZFCNWE3c2nKS/G9jUafLhSvydYFLNvWnJCwzHOdLyIcY6IK6fOL26H2TxgUWyRuF/SIQSmFJh7HXEbBw=="
-    },
-    "me": {
-      "id": "94776783153:7@s.whatsapp.net",
-      "verifiedName": "",
-      "name": "😗😗"
-    },
-    "signalIdentities": [
-      {
-        "identifier": {
-          "name": "94776783153:7@s.whatsapp.net",
-          "deviceId": 0
-        },
-        "identifierKey": {
-          "type": "Buffer",
-          "data": "Ba/ldtBWKikz/eUNN0CBPk7LS7bXL8pp0sb+kheGgEdY"
-        }
-      }
-    ],
-    "lastAccountSyncTimestamp": 1659368125,
-    "myAppStateKeyId": "AAAAAHaU"
+  "name": "Red-Dragon-MD",
+  "version": "4.0.0",
+  "description": "Automated whatsapp md bot created using nodejs",
+  "main": "boot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node boot.js"
   },
-  "keys": {
-    "preKeys": {
-      "1": {
-        "private": {
-          "type": "Buffer",
-          "data": "uEdvjkeVheqT3HT/C1Qe1Llm2H2QPu9+G9G58rai9ng="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "TUCFNVqFe+rA5348uAltX/mMepgLhs7s573et6EjLiY="
-        }
-      },
-      "2": {
-        "private": {
-          "type": "Buffer",
-          "data": "yNg1jvHTmoNhSbT+MqR3Kjr+rmruoW55IPFkUOsuP08="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "VqDdIi9C/dX5SCqudXXJvyc10jZwqYDYZXflzbXgCHM="
-        }
-      },
-      "3": {
-        "private": {
-          "type": "Buffer",
-          "data": "cOvaEvpZ7iNPh2RYL0Sp2193wmOYcV2e75G5NtHJYV8="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "ZgKzVMKMXbmymf29BJ7Ay8SRHk82/otouUY/AgnNnD8="
-        }
-      },
-      "4": {
-        "private": {
-          "type": "Buffer",
-          "data": "SJRu412pmb95/DBSLMZgVC8xePBvppKMChZyh2DZXFE="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "uE16+yQm6jwYwF6l4QHh7Ln36XzVtWj52I8eMeFnXhA="
-        }
-      },
-      "5": {
-        "private": {
-          "type": "Buffer",
-          "data": "AMdvZsnWFonzjUfwMB6qMoZr7Ec/+8fAsUCYy/12wnU="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "cf/iER4QvQIQ/R7Pbpn5Zuc4Gv5dAwW+KfRu9C4euXw="
-        }
-      },
-      "6": {
-        "private": {
-          "type": "Buffer",
-          "data": "sHVuFiNHGsL5WVDua1YRm8L4jSlDMJ+rh3Fm00b5d10="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "kFBgw4VLBpoBSj3uJl9CZokYpyU2ulXjOOyx27cDxGo="
-        }
-      },
-      "7": {
-        "private": {
-          "type": "Buffer",
-          "data": "AFb+2BDS972ElQt897qcIVN67555b1Le2BMprcR/Eno="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "omPw2hOVxJB8sDuvVgTMsRwu2nxMxAVA6dJubtyXnxM="
-        }
-      },
-      "8": {
-        "private": {
-          "type": "Buffer",
-          "data": "IJctQufWJIaWpGNAJSCPTQUWcIV7un7iFL47Vb/grmA="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "tkoFwkcZJ5AC7VED/k/IRI/fxK6bboFlpXQwDY+6bVY="
-        }
-      },
-      "9": {
-        "private": {
-          "type": "Buffer",
-          "data": "EFSQGGPQsGuTz5gcRasZjq1C9ntGkSudTjq6RFCWQ00="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "mOo9Vi130GJWP1/8zFlU8eUtATFUQepsF20ppWDcdzY="
-        }
-      },
-      "10": {
-        "private": {
-          "type": "Buffer",
-          "data": "iMxd3enHcV1FWoyDyojYEAEfWHiPlR52x32XNDOv7X4="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "K0es7+4yz00jghT0CAqcrY/v3c8qBeLMo4DdIalEoT8="
-        }
-      },
-      "11": {
-        "private": {
-          "type": "Buffer",
-          "data": "uNzi7Rme8Dh2bBPOUbCRspk55qigH9pUKzpCWkHyA0M="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "3wu3rsRYuL1PCUMVOuKa3SUSx+o7IOtp1BHnWpNX+H0="
-        }
-      },
-      "12": {
-        "private": {
-          "type": "Buffer",
-          "data": "WBF/mzT1W7I+U7dxUNraG06Fytg9gCkPFi3AOyPsyHI="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "NWXCMui8qEXh2aftDocFKFkrtR+NqNRDGhhrJDiBbSs="
-        }
-      },
-      "13": {
-        "private": {
-          "type": "Buffer",
-          "data": "EEcsEczl9ZV1lbmno8SFv2Mm1Bg9bA/XIuMsS3tR4Vg="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "BZF3no41G4EoLwp2uGezFMhVWGPP4swn36LUCdcrywY="
-        }
-      },
-      "14": {
-        "private": {
-          "type": "Buffer",
-          "data": "eJjU70TjHH3W2uWK0TizeAa+uKe6xN+uLKbWctZMUUc="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "qwon7sPHUyehS2i2BYz9d9mZIMboROOAxu6fBpZEEDM="
-        }
-      },
-      "15": {
-        "private": {
-          "type": "Buffer",
-          "data": "kHNZk7i5SFqR0x+5EnJCg50JJoxXGguvlsTMKuDiNXk="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "ZGQNcQ3trb3ap+OJo/yvJnPd+k6VKjqVuhokvSNNhxQ="
-        }
-      },
-      "16": {
-        "private": {
-          "type": "Buffer",
-          "data": "sPOcVBbf3szEPL4GzAt6iQyCtV87/jTMz0GHLV3cWn8="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "Rnw1qDZVWQ0EUxfE2AwMK2pVBQ1PQqXZmmDOpteAZwY="
-        }
-      },
-      "17": {
-        "private": {
-          "type": "Buffer",
-          "data": "EAogdjQCxO8TgORR1J8rQq0w+5VxY//7kQW9kmDNnFU="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "8TNyi4BHAxZVrti2epwduXnikHemrKMD/gi8YUnXNW0="
-        }
-      },
-      "18": null,
-      "19": {
-        "private": {
-          "type": "Buffer",
-          "data": "6L6y8sFPOHKHMs0HSCbZtpWjQGwp/JcqX5Z4ImBXUU8="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "/xkib01odoF/zEapfwZUtqIXHPZJWgzmxmbi9FKaFTA="
-        }
-      },
-      "20": {
-        "private": {
-          "type": "Buffer",
-          "data": "wAtJq7nHjw2eRI/l7WhUCWR/uwn8xeK/MPHB9HK2VGs="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "JRb3sciWzY74rnF3ZUJVZCrPk9aouVEP+nH4EUwWm2s="
-        }
-      },
-      "21": {
-        "private": {
-          "type": "Buffer",
-          "data": "CDDyH3so88pRj0J9AWvuvsYYBHAOyUPtiGpjCKAkVWQ="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "dmR3O5+kOkz0cEHFX7363BVtlqka+xHk5P/CxnZ+PU8="
-        }
-      },
-      "22": {
-        "private": {
-          "type": "Buffer",
-          "data": "qKFANtv8d6Limm5pfhtPLwOR/LcF9MXfOW8KlFVvi3k="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "lLbVXcRf+Q6WstCeQ+Sx8cR3ea65iFU85rOK354TTnY="
-        }
-      },
-      "23": {
-        "private": {
-          "type": "Buffer",
-          "data": "MHp7m3yPipU+xMSR+Vtapthi4T5Ngu00+ywV7m7C1lY="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "9IClNIdf3WJdmiT5FzHrDEMNOvsGSNzjjLL2fdLLjEY="
-        }
-      },
-      "24": {
-        "private": {
-          "type": "Buffer",
-          "data": "+BsEgSFUOz8YjouSeKowzkw4PI3oHa6rCg6hJaP8zGc="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "62mNUNIdupACx2nMeAEymOPDmxhAnukNO7MqsFLAqjE="
-        }
-      },
-      "25": {
-        "private": {
-          "type": "Buffer",
-          "data": "aFha1l6Zlz398Vjlfe2i9w+XYxThsCOfaJEPYCZF9n8="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "kqH09HcZYchYn3cS5+3TrjPvDPDfFCl0IRoKmbukm0k="
-        }
-      },
-      "26": {
-        "private": {
-          "type": "Buffer",
-          "data": "UGTFSA+I7mqolP3VaofMiX3iptsxPela/QmTEpB/cGY="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "BC2XRkMOaSH8F115FPYDyeqJ8z0u6wKBZaIbUc1ntCk="
-        }
-      },
-      "27": {
-        "private": {
-          "type": "Buffer",
-          "data": "wNUE4lv7YirHQ5v71rV7U4mNJIRpPEzecxyvgqXYPnk="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "qQttWuuhqHVUMI9Hx3Sc/7PT1v+jUj3H7OFM7fjIhms="
-        }
-      },
-      "28": {
-        "private": {
-          "type": "Buffer",
-          "data": "8DNpYXW1AefoD1OPZ15/1pWkKgsw++EbEhqR0jt9DH8="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "KuBQbXH8NqQoE1qOlMPOh5lz0crmnPKgodJXgmVQHDg="
-        }
-      },
-      "29": {
-        "private": {
-          "type": "Buffer",
-          "data": "uCpr4j2Q47AnQB3hnzROjD7CfEmRLwAEHqny6UBbukI="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "BEn20qm7CsIwAkhEHjxjOs+KVZ0jwGKC3OmNR9N+KEc="
-        }
-      },
-      "30": {
-        "private": {
-          "type": "Buffer",
-          "data": "eLTZ9mgm8UAac7gwUXKNYihlHJs3wCXdHsZGtfUNF3o="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "xIjYFp7mQujmfqpqZBKxJTHHaQGV5hAhn7pMFkWwuls="
-        }
-      }
-    },
-    "sessions": {
-      "94776783153.0": {
-        "_sessions": {
-          "BeTKZQszj1acvtqI9lZryJpP9LF94Mm+aWcqh6uGYKFq": {
-            "registrationId": 918887797,
-            "currentRatchet": {
-              "ephemeralKeyPair": {
-                "pubKey": "BQgVQ2MHBFL9sQ2lSE1jEOweGOuQOPRYPNdsIzpBhGMn",
-                "privKey": "eAvwjoyACKCRIa6SDRnpwbF3YQ3BmnJ+jlgV1oQb8lA="
-              },
-              "lastRemoteEphemeralKey": "BbC9jkItcUnbGWs0B5trPki/UZzMJlhPYiOvof5U/M95",
-              "previousCounter": 0,
-              "rootKey": "n7cka5nw+LIxiCST2wJPvNBk5Jgal7yLK6rkH8Ie/C8="
-            },
-            "indexInfo": {
-              "baseKey": "BeTKZQszj1acvtqI9lZryJpP9LF94Mm+aWcqh6uGYKFq",
-              "baseKeyType": 2,
-              "closed": -1,
-              "used": 1659368127222,
-              "created": 1659368127222,
-              "remoteIdentityKey": "Ba/ldtBWKikz/eUNN0CBPk7LS7bXL8pp0sb+kheGgEdY"
-            },
-            "_chains": {
-              "BbC9jkItcUnbGWs0B5trPki/UZzMJlhPYiOvof5U/M95": {
-                "chainKey": {
-                  "counter": 3,
-                  "key": "giv99oceiuAmSF6ckAIbVgJ9ccBk9YdyVeqigptgnQc="
-                },
-                "chainType": 2,
-                "messageKeys": {}
-              },
-              "BQgVQ2MHBFL9sQ2lSE1jEOweGOuQOPRYPNdsIzpBhGMn": {
-                "chainKey": {
-                  "counter": -1,
-                  "key": "SVl5pLZnE7eiEDhCg1Pca02FmxCvnufMrPlJOa5y98I="
-                },
-                "chainType": 1,
-                "messageKeys": {}
-              }
-            }
-          }
-        },
-        "version": "v1"
-      }
-    },
-    "appStateSyncKeys": {
-      "AAAAAHaX": {
-        "keyData": "8qXSWyLQ1MptPtC3rZP0Sj7os3O7jXsPMhXobM7WWp8=",
-        "fingerprint": {
-          "rawId": 1828191995,
-          "currentIndex": 1,
-          "deviceIndexes": [
-            0,
-            1
-          ]
-        },
-        "timestamp": "1659245681861"
-      },
-      "AAAAAHaY": {
-        "keyData": "mN3rxRidGxLeNsdwKiQ5Vxy39NZxxWzJl1bSTZYQiZQ=",
-        "fingerprint": {
-          "rawId": 1828191996,
-          "currentIndex": 2,
-          "deviceIndexes": [
-            0,
-            1,
-            2
-          ]
-        },
-        "timestamp": "1659358358610"
-      },
-      "AAAAAHaV": {
-        "keyData": "5u2NHZ7D7BtRN88aSZo0VdUOT3BlWNBpo5RjR13SGuE=",
-        "fingerprint": {
-          "rawId": 1828191993,
-          "currentIndex": 1,
-          "deviceIndexes": [
-            0,
-            1
-          ]
-        },
-        "timestamp": "1659233013850"
-      },
-      "AAAAAHaW": {
-        "keyData": "IF/W9tyH/W14wzplsm8Pk7Cp/CP2DI4aTm83/1zMb/0=",
-        "fingerprint": {
-          "rawId": 1828191994,
-          "currentIndex": 1,
-          "deviceIndexes": [
-            0,
-            1
-          ]
-        },
-        "timestamp": "1659234775263"
-      },
-      "AAAAAHaU": {
-        "keyData": "E9CsrcD6olWUQKcOeSgaKFxkuhHirqOw3dLy6+UlYZ0=",
-        "fingerprint": {
-          "rawId": 1828191992,
-          "currentIndex": 1,
-          "deviceIndexes": [
-            0,
-            1
-          ]
-        },
-        "timestamp": "0"
-      }
-    }
-  }
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "2022",
+    "base",
+    "baileys-md",
+    "bot",
+    "bot-md",
+    "multi-device"
+  ],
+  "author": "Xeon",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@bochilteam/scraper": "^2.0.0",
+    "@shineiichijo/marika": "^2.0.2",
+    "@develoka/angka-terbilang-js": "^1.4.2",
+    "@shineiichijo/nhentai-pdf": "^1.0.5",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "tod-api": "^1.0.5",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "got": "^11.8.3",
+    "dhn-api": "^1.1.3",
+    "emoji-api": "^1.0.2",
+    "textmaker-thiccy": "^1.3.1",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.2",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.1",
+    "jsdom": "^16.4.0",
+    "lowdb": "^2.1.0",
+    "mongoose": "^6.2.1",
+    "moment-timezone": "^0.5.34",
+    "mumaker": "^1.0.0",
+    "node-cron": "^3.0.0",
+    "anime-wallpaper": "^1.0.2",
+    "node-fetch": "^2.6.1",
+    "node-webpmux": "^3.1.0",
+    "os": "^0.1.2",
+    "hxz-api": "^1.0.1",
+    "minecraft-query": "^1.0.13",
+    "path": "^0.12.7",
+    "perf_hooks": "0.0.1",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "remove.bg": "^1.3.0",
+    "scrape-primbon": "^1.1.0",
+    "util": "^0.12.4",
+    "yargs": "^17.2.1",
+    "xfarr-api": "^1.0.2",
+    "yt-search": "^2.10.2"
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
+  },
+  "homepage": "https://github.com/DGXeon/CheemsBot-MD4#readme"
 }
-        },
-        "LANGUAGE": {
-            "description": "Enter the language you want (EN or SI), ඔබට අවශ්‍ය භාෂාව ඇතුලත් කරන්න.. (EN හො SI)",
-            "required": true,
-            "value": "SI"
-        },
-        "S_DOWN_SONG": {
-            "description": "Enter the audio download message... ශබ්ද බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
-            "required": true,
-            "value": "_*I'm Searching your song*_ ✨➾🔎"
-        },
-        "S_UP_SONG": {
-            "description": "Enter the audio upload message... ශබ්ද උඩුගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
-            "required": true,
-            "value": "_*Im Uploading your song*_ ✨➾🎲"
-        },
-        "S_DOWN_VID": {
-            "description": "Enter the video download message... වීඩියෝ බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
-            "required": true,
-            "value": "_*I'm Bringing your video*_ ✨➾🔎"
-        },
-        "S_UP_VID": {
-            "description": "Enter the video upload message... වීඩියෝ උඩුගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
-            "required": true,
-            "value": "_*Im Uploading your video*_ ✨➾🎲"
-        },
-        "MENU_HEADER": {
-            "description": "ITS CHANGE YOUR CMD LIST HEADER",
-            "required": true,
-            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *帕辛杜*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS SEW QUEEN CMD MENU"
-        },
-        "GROUP_MANAGE": {
-            "description": "If you want the admin in the group to be able to use the admin command too, enter true. සමූහය තුල සිටින ඇඩ්මින් හටද ඇඩ්මින් විදාන භාවිතා කිරීමට හැකි සේ සැකසීම අවශ්‍යයි නම් true ලෙස ඇතුලත් කරන්න",
-            "required": true,
-            "value": "false"
-        },
-        "ANTI_LINK": {
-            "description": "If someone inserts a link into the group and wants to remove him from the group, enter true..සමූහයට කෙනෙකු ලින්ක් එකක් ඇතුලත් කලහොත් ඔහුව ගෲපයෙන් නෙරපා දැමීමට අවශ්‍ය නම් true ලෙස ඇතුලත් කරන්න",
-            "required": true,
-            "value": "false"
-        },
-        "INBO_BLOCK": {
-            "description": "INBOX BLOCKING SYSTEM.. ඉන්බොක්ස් බ්ලොක් කිරීමේ පද්දතිය.. eg true/all or true/cmd or false",
-            "required": true,
-            "value": "true"
-        },
-        "SPAM_CMD": {
-            "description": "Changeble Spam CMD... ස්පෑම් සදහා ඌ විදානය ලබා දෙන්න",
-            "required": true,
-            "value": "hunt"
-        },
-        "BAD_KICK": {
-            "description": "BAD WORD &  GROUP LINK KICKING SYSTEM.. අසබ්‍ය වචන හා ගෲප් ලින්ක් දමන්නන් ඉවත් කිරීමේ පද්දතිය",
-            "required": true,
-            "value": "true"
-        },
-        "ALIVE_LOGO": {
-            "description": "Add Your Alive Logo",
-            "required": false
-        },
-        "WARN_MSG": {
-            "description": "WANR KICK MASSAGE .. වර්න් ලබා දී කික් වන විට යෙදිය යුතු පණිවිඩය ඇතුලත් කරන්න",
-            "required": true,
-            "value": "*Your Times over Now.. So Good Bye*"
-        },
-        "WARN_COUNT": {
-            "description": "Input Warn Count",
-            "required": true,
-            "value": "3"
-        },
-        "HANDLERS": {
-            "description": "For commands.",
-            "required": true,
-            "value": "^[.!;]"
-        },
-        "CAPTION_NAME": {
-            "description": "කැප්ශන් එක ඇතුලත් කරන්න... Enter the Caption",
-            "required": 帕辛杜
-         },
-          "ZZ_PASSWORD": {
-            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර වීඩියෝව නරඹා එය ලබා ගන්න.password required.. watch the video ==> https://youtu.be/AKU7YVXxMbM",
-            "required": raviya
-         },
-        "OWNER_SHIP": {
-            "description": "බොට් අයිතිකරුගේ නාමය ඇතුලත් කරන්න ==> Input The Owner Name",
-            "required": false,
-            "value": "帕辛杜J"
-        },
-        
-        "YOUR_BOT_NAME": {
-            "description": "බොට්ගේ නාමය ඇතුලත් කරන්න ==> Input The Bot Name",
-            "required": false,
-            "value": "✬ 帕辛杜 ✬"
-        },
-        "NO_LOG": {
-            "description": "Set true if you don't want to see error log.",
-            "required": true,
-            "value": "false"
-        },
-        "SEND_READ": {
-            "description": "Write true if you want to throw seen.",
-            "required": true,
-            "value": "true"
-        },
-        "HEROKU": {
-            "description": "If it is running in Heroku, type true.",
-            "required": true,
-            "value": "true"
-        },
-        "HEROKU_API_KEY": {
-            "description": "Heroku API Key.",
-            "required": true
-        },
-        "MUTE_MESSAGE": {
-            "description": "Customizable Mute Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "UNMUTE_MESSAGE": {
-            "description": "Customizable Unmute Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "BLOCK_MESSAGE": {
-            "description": "Customizable Block Message! Use => default, to change back.",
-            "required": false,
-            "value": "true"
-        },
-        "UNBLOCK_MESSAGE": {
-            "description": "Customizable Unblock Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "WORK_TYPE": {
-            "description": "Sew Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
-            "required": true,
-            "value": "public"
-        },
-        "HEROKU_APP_NAME": {
-            "description": "Heroku APP Name.",
-            "required": true
-        },
-        "DEBUG": {
-            "description": "Geliştiricilere özeldir.",
-            "required": true,
-            "value": "false"
-        },
-        "REMOVE_BG_API_KEY": {
-            "description": "Get API Key. https://remove.bg",
-            "required": KLfUC4iupyg3XadxuQBJqVQz
-        },
-        "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! Use => default, to change back.  include {status} & {phoneinfo} & {sever} & {ratings} to add about chat & phone info & saver info & Your Ratings to your alive message",
-            "required": false,
-            "value": "Hello I Am Alive\n{ratings}\n {status} \n {phoneinfo} \n {sever}"
-        },
-        "BAN_MESSAGE": {
-            "description": "Customizable Ban Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "ADD_MESSAGE": {
-            "description": "Customizable Add Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "KICKME_MESSAGE": {
-            "description": "Customizable Kickme Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "PROMOTE_MESSAGE": {
-            "description": "Customizable Promote Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "DEMOTE_MESSAGE": {
-            "description": "Customizable Demote Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "AFK_MESSAGE": {
-            "description": "Customizable AFK Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "GAN_IMAGE": {
-            "description": "Type image link for Gan Style plugin.",
-            "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
-        },
-        "GROUP_MANAGE": {
-            "description": "Type true if you need allow admin to use admin command",
-            "required": false,
-            "value": "false"
-        },
-        "CLONE_MSG": {
-            "description": "This MSG will display after the clone end",
-            "required": false
-        },
-        "NO_ONLINE": {
-            "description": "Type true if you don't want to appear online.",
-            "required": false,
-            "value": "false"
-        },
-        "SEW_AI": {
-            "description": "Artificial Intelligence Chat Bot!",
-            "required": false,
-            "value": "false"
-        },
-        "COFFEEHOUSE_API_KEY": {
-            "description": "Pass This Step!",
-            "required": false,
-            "value": "true"
-        }
-    },
-    "addons": [{
-      "plan": "heroku-postgresql"
-    }],
-    "buildpacks": [{
-      "url": "heroku-community/apt"
-      }]
-  }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+You have no unread notifications
