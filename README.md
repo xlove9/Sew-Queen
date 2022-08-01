@@ -1,87 +1,135 @@
-<div align="center"><h1>❖❖❖❖❖   𝐒𝐄𝐖 𝐐𝐔𝐄𝐄𝐍   ❖❖❖❖❖</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/e30459858952812db2b9b479cbc6eeb7603bb494/sewqueenimg/main.jpg" width="250" height="250"></a><h3>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h3></div>
+<di<p align="center">
+<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="349"/>
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
+</p>
+
+## 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 -𝗕𝗢𝗧࿐   Version 8.0
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+
+LATEST VERSION 8.0 (2022-07-29 [Reactions added, Messages updated, add more options])
+
+> [🔄Please Follow Me🤭](https://github.com/prabhasha2006)
+
+<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+
+> Image Designed By  ==(Dineth Indusara)== RED DRAGON TEAM
+
+> Created By ==(Kumuthu Prabhasha)== RED DRAGON TEAM
+
+<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+
+<p align="center">
+❯❯😎Kick bellow topics😒❮❮
+</p>
+<p align="center">
+👇To proccess👇
+</p>
+
+## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+ 
+## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
+ 
+## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
+
+## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
 
 
-***
+<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
-<p align="center"><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/docker/pulls/ravindu01manoj/sewqueen?style=for-the-badge&logo=docker&label=Docker+Pulls&color=blueviolet"></a><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/docker/image-size/ravindu01manoj/sewqueen?style=for-the-badge&logo=docker&label=Image Size&color=blueviolet"></a></p><p align="center"><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fravindu01manoj%2FSew-Queen&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a></a><a href="https://github.com/ravindu01manoj/Sew-Queen/fork"><img src="https://img.shields.io/github/forks/ravindu01manoj/Sew-Queen?label=Fork&style=social"></a><a href="https://github.com/ravindu01manoj/Sew-Queen/stargazers"><img src="https://img.shields.io/github/stars/ravindu01manoj/Sew-Queen?style=social"></a></p><p align="center"><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/github/repo-size/ravindu01manoj/Sew-Queen?color=00ff00&label=Repo%20Size&style=flat-square"></a><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/github/license/ravindu01manoj/Sew-Queen?color=00ff00&label=License&style=flat-square"></a><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/github/languages/top/ravindu01manoj/Sew-Queen?color=00ff00&label=Javascript&style=flat-square"></a><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/badge/Programmer-Ravindu%20Manoj-blueviolet"></a></p><p align="center"><a href="https://t.me/RavinduManoj"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Telegrame-Ravindu%20Manoj-success"></a></p>
-<div align="center"><img src="https://profile-counter.glitch.me/ravindu01manoj/count.svg" /><br>Profile Viewers</div>
+<p align="center">
 
-***
+<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
 
-# How To Deploy And Deploy Password
-<div align="left"><a href="https://youtu.be/AKU7YVXxMbM"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/20210814_230626.png" width="500" ></a></div>
+</p>
 
+</details>
 
-***
-> scan  QR Code ✏
-<div align="left"><a href="https://replit.com/@RavinduManoj/Queen-Sew-QR-Code"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
+<b><details><summary>🪀Recommended WhatsApps🪀</summary>
 
----
-> Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+>If you using mod whatsapp!
+>DO NOT USE FOUD MODS.
 
-***
-# Deployment link not working?
+>ඔබ වට්සැප් මොඩ් භාවිතා කරනවා නම් Foud mod හෝ වෙනත් පරණ Base සහිත වට්සැප් මගින් ඔබේ ගිනුම තාවකාලිකව Ban විය හැකියි.
 
-> If you do not have a Github account, create a new [Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) account
+Recommended WhatsApp👇
+>Normal WhatsApp [DOWNLOAD](https://play.google.com/store/apps/details?id=com.whatsapp)
+>YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
 
-> Now Click The [Fork](https://github.com/ravindu01manoj/Sew-Queen/fork)
+</b>
+</details>
 
-> Now Copy This Url https://heroku.com/deploy?template=https://github.com/ravindu01manoj/Sew-Queen.git and change ravindu01manoj/Sew-Queen with your user name and repo name
+##
 
-> Now Deploy Sew Queen With Your Own Url.
+> [SUPPORT GROUP](https://chat.whatsapp.com/I1v5ZTJeFjZ9x5LzG3qPHU)
 
-> more ... ↓↓↓
+<b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
 
-<div align="left"><a href="https://youtu.be/H_er-5qdFMM"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/sewqueenimg/yt.jpg" width="150" ></a></div>
+>මුලින්ම qr code එක scan කරගන්න🥲. multi devices beta වැඩ කරනෝ
 
-***
-<div aline='left'><h2> SEW QUEEN TEAM </h2></div>
+>ඊට පස්සෙ මේ git එක fork කරගන්න. හරි. දැන් ඔයා fork කරගත්ත git එකට යන්න😌.
 
-***
+>දැන් වට්සැප් එකේ ඔයාගෙ ලොක් අංගයට session.json කියලා file එකක් ඇවිල්ලා ඇති. ඒක තියෙන්නෙ Whatsapp > media > whatsapp documents > session.json  මෙතන.
 
+>දැන් ඔයා අර fork කරපු git එකට ආයි ගිහින් ඒ session.json එක upload කරලා commit changes දෙන්න😁.
 
-<table><tr><th>Ms:Sew</th><th>Ravindu Manoj </th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/IMG_20211117_145806.jpg" width="180" alt="Sew Queen"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/temp_user_profile1621662133773.jpeg" width="180" alt="Ravindu Manoj"></a></td></tr><tr><td>Owner</td><td>Developer & Owner </td></tr></table><table><tr><th>Muthu</th><th>Dilusha</th><th>Umeda</th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/3e3b65c1117c61427e00843254eaf84c.jpg" width="180" alt="Muthu"></a></td><td><a href="http://github.com/dilushamandila"><img src="https://avatars.githubusercontent.com/u/90194808?v=4" width="180" alt="Dilusha"></a></td><td><a href="http://github.com/umedaewandee"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/IMG_20211117_150039.jpg" width="180" alt="Umeda"></a></td></tr><tr><td>Voice & Idea </td><td> Graphics & Group Management</td><td>Group Management & Idea</td></tr></table>
+>දැන් ආයි බැක් වෙලා Edit 'setting.js' With Your Choice ගිහින් ඒව මේව වෙනස් කරගන්න පුලුවං😒😒😒
 
+>යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නෙ😁
 
-***
-<div align="center"><h1>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
+</b>
+</details>
 
-***
-> [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Commands)
-: All Commands
+<!-- Contact Owner -->
+<b><details><summary>Contact Owner 😜</summary></b>
 
-> [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Extrenal-Commands)
-: Official Extrenal Commands
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+</p>
 
-> [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Add-Your-Own-Cmd-For-Sew-Queen-Whatsapp-Bot)
-: How To Add Your Own Command For Sew Queen 
+</details>
 
-> [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/ALL-Words-(Voice-Reply))
-: All Words In Voice Reply
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
 
-***
-> Another Way To Get Qr ✏
-
-# You Can Get Qr Easily Using Another Sew Queen Bot
-# Get Qr As Image To Use .getqr
-
-> termux code for qr✏
+## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
 
 
-```
-$ pkg upgrade && pkg update
-$ pkg install nodejs && pkg install git
-```
 
-```
-$ git clone https://github.com/Sew01RaviduManoj01KingAndQueen/sew.git
-$ cd qr
-$ npm i
-$ node sew.js
+<b><details><summary>Available Features</summary><br>
+	
+| Features |  Availability |
+| :------: |  :----------: |
+|   Convert     |       😎     |
+|   Database     |       😎     |
+|   Owner     |       😎    |
+|   Downloader     |       😎     |
+|   Webzone     |       😎       |
+|   Searching     |       😎      |
+|   Textpro     |       😎      |
+|   Ephoto     |       😎     |
+|   Anime Web     |       😎      |
+|   Stalker     |       😎      |
+|   Random Text     |       😎     |
+|   Random Image     |       😎     |
+|   Creator     |       😎      |
 
-```
-```
-$ cd qr
-$ node sew.js
-```
+</details>
+
+<div align="center">
+	
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+</div>
+
+## Thanks To
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+* [`DGXeon`](https://github.com/DGXeon)
+* [`AflahXrd`](https://github.com/nexusNw)
